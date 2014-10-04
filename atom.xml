@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Cotton Farm]]></title>
-  <subtitle><![CDATA[人来人往自在忙，尚留一隙种棉花...]]></subtitle>
+  <subtitle><![CDATA[人来人往自在忙，且留一隙种棉花...]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-10-04T16:48:08.806Z</updated>
+  <updated>2014-10-04T17:03:44.298Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
