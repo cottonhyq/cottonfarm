@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Cotton Farm]]></title>
+  <subtitle><![CDATA[人来人往自在忙，尚留一隙种棉花...]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-10-04T09:11:20.002Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[Cotton]]></name>
+    <email><![CDATA[cottonhyq@163.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[layout]]></title>
+    <link href="http://yoursite.com/2014/10/01/layout/"/>
+    <id>http://yoursite.com/2014/10/01/layout/</id>
+    <published>2014-10-01T12:17:26.000Z</published>
+    <updated>2014-10-01T12:17:26.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[第一篇博客]]></title>
+    <link href="http://yoursite.com/2014/10/01/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2014/10/01/第一篇博客/</id>
+    <published>2014-10-01T03:38:00.000Z</published>
+    <updated>2014-10-03T15:08:09.000Z</updated>
+    <content type="html"><![CDATA[<p>1、甲、乙两种商品的原来价格比是7:3  ．如果它们的价格各自上涨70 元，它们的价格比变为7:4 ．求甲乙两种商品的原价各是多少元？</p>
+<p>2、小明用若干个大小相同的正方体木块堆成一个几何体，这个几何体从正面看如下图左,从上面看如下图右．那么<br>这个几何体至少用了<strong>__</strong>块木块．<br><a id="more"></a><br>$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$</p>
+<p>我们$\sum_{i\to 2}^i $</p>
+<p><img src="/images/附加题02.jpg" alt="hello"></p>
+<p><img src="file:///Users/richardding/Downloads/附加题03.jpg" alt="alt_text"></p>
+<p><img src="file:///Users/richardding/Downloads/附加题04.jpg" alt="alt_text"></p>
+<p><img src="file:///Users/richardding/Downloads/附加题05.jpg" alt="alt_text"></p>
+<p>　　1.质因数</p>
+<p>　　某校师生为贫困地区捐款1995元．这个学校共有35名教师，14个教学班．各班学生人数相同且多于30人不超过45人．如果平均每人捐款的钱数是整数，那么平均每人捐款多少元?<br>　　<br>　　2.质因数</p>
+<p>　　甲、乙、丙三人打靶，每人打三枪，三人各自中靶的环数之积都是 ,按个人中靶的总环数由高到低排，依次是甲、乙、丙。靶子上4环的那一枪是谁打的？(环数是不超过 的自然数)</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[Introduce tag plugins in freemind.]]>
+    
+    </summary>
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="随笔生活" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2014/09/20/hello-world/"/>
+    <id>http://yoursite.com/2014/09/20/hello-world/</id>
+    <published>2014-09-20T15:44:47.000Z</published>
+    <updated>2014-09-20T15:44:47.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2>
+<h3 id="Create_a_new_post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
