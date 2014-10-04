@@ -4,7 +4,7 @@
   <subtitle><![CDATA[人来人往自在忙，尚留一隙种棉花...]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-10-04T09:11:20.002Z</updated>
+  <updated>2014-10-04T10:00:47.100Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,24 +15,11 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[layout]]></title>
-    <link href="http://yoursite.com/2014/10/01/layout/"/>
-    <id>http://yoursite.com/2014/10/01/layout/</id>
-    <published>2014-10-01T12:17:26.000Z</published>
-    <updated>2014-10-01T12:17:26.000Z</updated>
-    <content type="html"><![CDATA[]]></content>
-    <summary type="html">
-    <![CDATA[]]>
-    </summary>
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[第一篇博客]]></title>
     <link href="http://yoursite.com/2014/10/01/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2014/10/01/第一篇博客/</id>
     <published>2014-10-01T03:38:00.000Z</published>
-    <updated>2014-10-03T15:08:09.000Z</updated>
+    <updated>2014-10-04T09:58:25.000Z</updated>
     <content type="html"><![CDATA[<p>1、甲、乙两种商品的原来价格比是7:3  ．如果它们的价格各自上涨70 元，它们的价格比变为7:4 ．求甲乙两种商品的原价各是多少元？</p>
 <p>2、小明用若干个大小相同的正方体木块堆成一个几何体，这个几何体从正面看如下图左,从上面看如下图右．那么<br>这个几何体至少用了<strong>__</strong>块木块．<br><a id="more"></a><br>$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$</p>
 <p>我们$\sum_{i\to 2}^i $</p>
@@ -45,7 +32,7 @@
 <p>　　甲、乙、丙三人打靶，每人打三枪，三人各自中靶的环数之积都是 ,按个人中靶的总环数由高到低排，依次是甲、乙、丙。靶子上4环的那一枪是谁打的？(环数是不超过 的自然数)</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[Introduce tag plugins in freemind.]]>
+    <![CDATA[This is my first blog.]]>
     
     </summary>
     
